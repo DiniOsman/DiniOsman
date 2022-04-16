@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiniOsman
+- 👋 Hi, I’m @DiniOsman python developer and junior Oracle DBA
 - 👀 I’m interested in web dev, Data Science and NLP(Natural Language Processing)
 - 🌱 I’m currently learning web Dev and NLP
 - 💞️ I’m looking to collaborate on PROJECTS
